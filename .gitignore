@@ -1,0 +1,6 @@
+.cache/
+.gdb_history
+Debug/
+Release/
+build/
+compile_commands.json
